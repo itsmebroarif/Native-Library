@@ -27,3 +27,27 @@ Setelah itu install package pendukung (Opsional)
 ```
 npm run install-config
 ```
+
+
+Ketika semua sudah selesai dilakukan, Silahkan lakukan konfigurasi terakhir ini untuk penggunaan kalian
+```
+.
+└── Native_Library/
+    ├── css/
+    │   ├── style.css
+    │   ├── boostrap.css
+    │   └── sweetalert2.all.css
+    ├── js/
+    │   ├── script.js
+    │   ├── bootstrap.js
+    │   └── sweetalert2.all.js
+    ├── assets/
+    │   ├── img
+    │   ├── picture
+    │   └── logo
+    ├── page
+    ├── node_modules
+    ├── index.html
+    ├── package.json
+    └── package.lock.json
+```
