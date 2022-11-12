@@ -1,4 +1,4 @@
-# Native - Library Untuk Membangun Website Simple
+# Library Untuk Membangun Website Simple
 ----
 
 ## Pendahuluan
