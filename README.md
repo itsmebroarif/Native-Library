@@ -19,13 +19,13 @@ git clone https://github.com/itsmebroarif/Native-Library.git
 Installasi Direktori File nya terlebih dahulu
 
 ```
-npm run set-env
+npm run set:env
 ```
 
 Setelah itu install package pendukung (Opsional)
 
 ```
-npm run install-config
+npm run install:config
 ```
 
 
